@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/Artworks/shiny-carnival"]
+	path = Assets/Packages/Artworks/shiny-carnival
+	url = https://github.com/itarumoriuchi/shiny-carnival.git
